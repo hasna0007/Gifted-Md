@@ -1,7 +1,7 @@
 {
-  "name": "gifted-md@V.2.0.0",
-  "description": "Hi there, I am Gifted Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254728782591",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "name": "𝐂𝚫𝚻 𝐒𝚸𝐘@V.2.0.0",
+  "description": "Hi there, I am 𝐂𝚫𝚻 𝐒𝚸𝐘 Whatsapp bot 𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷 𝑆𝛪𝑅 built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +917034167123",
+  "logo": "https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg",
   "keywords": ["whatsappbot", "giftedMd", "Gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -9,13 +9,13 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
       "required" :true
     },   
     
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
-      "value": "false",
+      "value": "true",
       "required" :true
     },
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " Name Of Bot",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘"
     }, 
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "917034167123"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -133,16 +133,16 @@
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
       "required" :true,
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Whatsappbot",
+      "value": "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
       "required": true 
   },
     "STACK": {
